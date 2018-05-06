@@ -1,0 +1,41 @@
+body {
+  font-family: helvetica;
+}
+
+h1 {
+  background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  horizontal-align: middle;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight:bold;
+  color: white;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
+
+span {
+  font-weight: bold;
+  color: blue;
+  /* The blue color on the span makes me think it's a link. Could it be better if it were italicized? */
+}
+
+h2.brushes {
+  background-color: mediumspringgreen;
+}
+
+h2.frames {
+  background-color: lightcoral;
+}
+
+h2.paint {
+  background-color: skyblue;
+}
